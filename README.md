@@ -6,6 +6,7 @@
 [![codecov](https://codecov.io/gh/jamj2000/DAW1-ED-Pruebas-Ejemplo1/branch/master/graph/badge.svg)](https://codecov.io/gh/jamj2000/DAW1-ED-Pruebas-Ejemplo1)
 [![Sonar](https://sonarcloud.io/api/project_badges/measure?project=miapp&metric=alert_status)](https://sonarcloud.io/organizations/jamj2000-github/projects)
 
+[![Build Status](https://travis-ci.org/j486/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://travis-ci.org/j486/DAW1-ED-Pruebas-Ejemplo1)
 
 ![JDK 8](https://img.shields.io/badge/JDK-8-blue.svg)
 ![Gradle](https://img.shields.io/badge/gradle-2-blue.svg)
