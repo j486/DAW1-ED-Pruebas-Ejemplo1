@@ -22,5 +22,5 @@ script:
 ##  - ./gradlew sonarqube  #  -Dsonar.organization=jamj2000-github   -Dsonar.host.url=https://sonarcloud.io 
 #after_success:
 ##  - bash <(curl -s https://codecov.io/bash)
-
+travis encrypt a3469037f8fbb94402f0e8d037df32572767c11a
 
